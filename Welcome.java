@@ -4,5 +4,6 @@ public class Welcome {
 		System.out.println("Hej dumme!");
 		System.out.println("hej smukke!");
 		System.out.println("hej du er sjov!");
+		System.out.println("Prøver om jeg kan ødelægge dette...");
 	}
 }
