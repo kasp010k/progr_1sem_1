@@ -6,3 +6,4 @@ Path ind for Java.
 
 hvor jeg så efter har skrevet min kode og været inde i cmd og finde mappe den ligger i og skrevet
 javac (mit navn på java filen) Welcome.java og efter kun skrevet java Welcome og den viser mit tekst.
+vi har lært om Dir som viser hvad der er i mappen
